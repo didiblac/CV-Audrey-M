@@ -1,0 +1,25 @@
+body 
+{
+	background-color: opacity (0.4);
+	text-align:center;
+}
+h1
+{
+	font-size: 3; 
+	color: purple;
+	text-decoration: underline;
+}
+
+p
+{
+	font-size:1.5em;
+	font-family: times new roman;
+	text-align: center-left;
+	backgroud-image: url("GTEI.png") fixed no-repeat top left;
+}
+
+h2
+{
+	font-size:2em;
+
+}
